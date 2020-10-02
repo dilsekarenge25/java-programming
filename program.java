@@ -1,4 +1,4 @@
-public class{
+public class Hello{
 	
 	public static void main(String Args[])
 	{
