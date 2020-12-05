@@ -5,6 +5,7 @@ public class Hello{
 		System.out.println("Hello Github!!");
 		System.out.println("Change after clone!");
                 System.out.println("Forking-->Clonning->trying to pull request.");
+		System.out.println("Hello from dilsekarenge side!!");
 	}
 }
 		
